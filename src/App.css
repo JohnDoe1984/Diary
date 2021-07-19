@@ -1,0 +1,24 @@
+.app {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.body {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.date {
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+}
+
+.buttonSave {
+  width: 50px;
+  height: 50px;
+}
